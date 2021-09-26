@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--En utilisant les attributs Version non simplifié-->
+<livre titre="Livre">
+    <!-- Informations sur les auteurs-->
+	<auteurs>
+		<auteur nom="Hannechi" prenom="Nadhira">
+        <auteur nom="Lakhal" prenom="Abir">
+	</auteurs>
+	<sections>
+        <!-- Informations sur les sections-->
+		<section titre="Section 1">
+                <!-- Informations sur les chapitres-->
+				<chapitre titre="Chapitre 1">
+						<paragraphe>Paragraphe 1</paragraphe>
+						<paragraphe>Paragraphe 2</paragraphe>
+				</chapitre>
+				<chapitre titre="Chapitre 2">
+						<paragraphe>Paragraphe 1</paragraphe>
+						<paragraphe>Paragraphe 2</paragraphe>
+				</chapitre>	
+		</section>
+		<section titre="Section 2">
+				<chapitre titre="Chapitre 1">
+						<paragraphe>Paragraphe 1</paragraphe>
+						<paragraphe>Paragraphe 2</paragraphe>
+				</chapitre>
+				<chapitre titre="Chapitre 2">
+						<paragraphe>Paragraphe 1</paragraphe>
+						<paragraphe>Paragraphe 2</paragraphe>
+				</chapitre>
+		</section>
+	</sections>
+</livre>

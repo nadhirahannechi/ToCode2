@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Annuaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="annuaire2.xsd">
+    <contact titre="contact1" techno="le premier">
+        <nom>Hannechi </nom>
+        <prenom>Nadhira</prenom>
+        <telephone>29144518</telephone>
+        <email>nadhira.hannechi8@gmail.com</email>
+    </contact>
+    <contact titre="contact2" techno="le deuxieme">
+        <nom>Lakhal </nom>
+        <prenom>Abir</prenom>
+        <telephone>55008632</telephone>
+        <email>abir.lakhal@gmail.com</email>
+    </contact>
+</Annuaire>

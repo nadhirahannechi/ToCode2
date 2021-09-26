@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre xmlns:x1="http://www.masociete.com" xmlns:x2="http://www.monentreprise.com">
+	<titre>Livre</titre>
+    <!-- Informations sur les auteurs-->
+	<x1:auteurs>
+		<x1:auteur>
+		    <x1:nom>Hannechi</x1:nom>
+			<x1:prenom>Nadhira</x1:prenom>
+		</x1:auteur>
+		<x1:auteur>
+		    <x1:nom>Lakhal</x1:nom>
+			<x1:prenom>Abir</x1:prenom>	
+		</x1:auteur>
+	</x1:auteurs>
+	<x1:sections>
+        <!-- Informations sur les sections-->
+		<x1:section>
+			<x1:titre>Section 1</x1:titre>
+			<x1:chapitres>
+                <!-- Informations sur les chapitres-->
+				<x1:chapitre>
+					<x1:titre>Chapitre 1</x1:titre>
+					<x1:paragraphes>
+						<x1:paragraphe>Paragraphe 1</x1:paragraphe>
+						<x1:paragraphe>Paragraphe 2</x1:paragraphe>
+					</x1:paragraphes>
+				</x1:chapitre>
+				<x1:chapitre>
+					<x1:titre>Chapitre 2</x1:titre>
+					<x1:paragraphes>
+						<x1:paragraphe>Paragraphe 1</x1:paragraphe>
+						<x1:paragraphe>Paragraphe 2</x1:paragraphe>
+					</x1:paragraphes>
+				</x1:chapitre>
+			</x1:chapitres>
+		</x1:section>
+		<x2:section>
+			<x2:titre>Section 2</x2:titre>
+			<x2:chapitres>
+				<x2:chapitre>
+					<x2:titre>Chapitre 1</x2:titre>
+					<x2:paragraphes>
+						<x2:paragraphe>Paragraphe 1</x2:paragraphe>
+						<x2:paragraphe>Paragraphe 2</x2:paragraphe>
+					</x2:paragraphes>
+				</x2:chapitre>
+				<x2:chapitre>
+					<x2:titre>Chapitre 2</x2:titre>
+					<x2:paragraphes>
+						<x2:paragraphe>Paragraphe 1</x2:paragraphe>
+						<x2:paragraphe>Paragraphe 2</x2:paragraphe>
+					</x2:paragraphes>
+				</x2:chapitre>
+			</x2:chapitres>
+		</x2:section>
+	</x1:sections>
+</livre>

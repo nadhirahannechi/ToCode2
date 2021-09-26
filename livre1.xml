@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre>
+	<titre>Livre</titre>
+    <!-- Informations sur les auteurs-->
+	<auteurs>
+		<auteur>
+		    <nom>Hannechi</nom>
+			<prenom>Nadhira</prenom>
+		</auteur>
+		<auteur>
+		    <prenom>Lakhal</prenom>
+			<nom>Abir</nom>	
+		</auteur>
+	</auteurs>
+	<sections>
+        <!-- Informations sur les sections-->
+		<section>
+			<titre>Section 1</titre>
+			<chapitres>
+                <!-- Informations sur les chapitres-->
+				<chapitre>
+					<titre>Chapitre 1</titre>
+					<paragraphes>
+						<paragraphe>Paragraphe 1</paragraphe>
+						<paragraphe>Paragraphe 2</paragraphe>
+					</paragraphes>
+				</chapitre>
+				<chapitre>
+					<titre>Chapitre 2</titre>
+					<paragraphes>
+						<paragraphe>Paragraphe 1</paragraphe>
+						<paragraphe>Paragraphe 2</paragraphe>
+					</paragraphes>
+				</chapitre>
+			</chapitres>
+		</section>
+		<section>
+			<titre>Section 2</titre>
+			<chapitres>
+				<chapitre>
+					<titre>Chapitre 1</titre>
+					<paragraphes>
+						<paragraphe>Paragraphe 1</paragraphe>
+						<paragraphe>Paragraphe 2</paragraphe>
+					</paragraphes>
+				</chapitre>
+				<chapitre>
+					<titre>Chapitre 2</titre>
+					<paragraphes>
+						<paragraphe>Paragraphe 1</paragraphe>
+						<paragraphe>Paragraphe 2</paragraphe>
+					</paragraphes>
+				</chapitre>
+			</chapitres>
+		</section>
+	</sections>
+</livre>
